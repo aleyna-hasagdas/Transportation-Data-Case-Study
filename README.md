@@ -23,7 +23,6 @@ The dataset includes the following features:
 
 ## Project Structure
 
-- **Project_Findings.docx**: Detailed analysis, including data exploration, cleaning, segmentation, and model evaluation.
 - **notebook-last.ipynb**: Jupyter notebook containing the code for data processing, analysis, and model predictions.
 - **Dataset.csv**: The raw data used for analysis.
 
